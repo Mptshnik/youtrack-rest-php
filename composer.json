@@ -1,5 +1,5 @@
 {
-    "name": "cybercog/youtrack-rest-php",
+    "name": "mptshnik/youtrack-rest-php",
     "description": "YouTrack REST API PHP Client.",
     "type": "library",
     "license": "MIT",
